@@ -2,7 +2,7 @@
 
 rollout TuleBox "TuleBox" width:240 height:500
 (
-	local b = openBitMap(@"https://github.com/Mathegon/the-void/blob/master/toaster.png")
+	local b = openBitMap(@"C:\Program Files\Autodesk\3ds Max 2019\scripts\Toaster\toaster.png")
 	imgTag imgLogo "logo" tooltip:"logo" style:#bmp_center bitmap:b align:#center height:100 width:208
 	
 	button 'btn1_rnd_pre' "Render Precheck" pos:[16,280] width:96 height:24 toolTip:"Render a precheck - no need to disable in Render settings" align:#left
