@@ -1,6 +1,12 @@
 A quick toolbox to speed up workflow, mostly IKEA SLA project. V-Ray needs to be active render.
 No need to open the slow render settings all the time.
 
+"Installing" ;)
+Put Toaster map in:
+C:\Program Files\Autodesk\3ds Max 2019\scripts\
+
+Add it as a button in Max by dragging the script from the editor to the toolbar.
+
 -Settings-
 File: Shows what file is open. When cluttered with many max windows it's hard to tell what window belongs to witch max.
 Resolution: Shows current resoluton
