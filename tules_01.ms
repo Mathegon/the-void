@@ -14,7 +14,7 @@ rollout TuleBox "TuleBox" width:240 height:500
 	GroupBox 'grp8' "Settings" pos:[8,128] width:208 height:128 align:#left
 	
 	label 'lbl1' "file" pos:[16,160] width:160 height:16 bold:true align:#left
-	label 'lbl2' "resolution" pos:[16,200] width:168 height:16 align:#left
+	label 'lbl2' "resolution" pos:[16,210] width:168 height:16 align:#left
 	label 'lbl3' "thresh" pos:[16,224] width:160 height:16 align:#left
 	
 		
